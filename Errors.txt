@@ -1,0 +1,1578 @@
+
+Error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=147.0.7727.56)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff628aa0295+146d5]
+	chromedriver!GetHandleVerifier [0x7ff628aa0300+14740]
+	chromedriver!(No symbol) [0x7ff62880d7cd]
+	chromedriver!(No symbol) [0x7ff6287e3e92]
+	chromedriver!(No symbol) [0x7ff628896e56]
+	chromedriver!(No symbol) [0x7ff6288b40e2]
+	chromedriver!(No symbol) [0x7ff628859018]
+	chromedriver!(No symbol) [0x7ff628859f03]
+	chromedriver!GetHandleVerifier [0x7ff628db5949+329d89]
+	chromedriver!GetHandleVerifier [0x7ff628dafe96+3242d6]
+	chromedriver!GetHandleVerifier [0x7ff628dd3102+347542]
+	chromedriver!GetHandleVerifier [0x7ff628abd425+31865]
+	chromedriver!GetHandleVerifier [0x7ff628ac605c+3a49c]
+	chromedriver!GetHandleVerifier [0x7ff628aa9684+1dac4]
+	chromedriver!GetHandleVerifier [0x7ff628aa9836+1dc76]
+	chromedriver!GetHandleVerifier [0x7ff628a8e347+2787]
+	KERNEL32!BaseThreadInitThunk [0x7ffc3ead7374+14]
+	ntdll!RtlUserThreadStart [0x7ffc3f65cc91+21]
+.
+ Occurred at 2026-04-12 19:48:20.029630
+ Link: https://docs.google.com/document/d/ZzC31lys79hcR3I8bSrkqmMvJ0SOBaVOZ633TgNWgL0_
+ iteration: 71
+
+Driver restarted due to error at 2026-04-12 19:48:23.751132
+ iteration: 71
+
+Driver scheduled restart at 2026-04-12 19:48:58.188387
+ iteration: 300
+
+Driver scheduled restart at 2026-04-12 19:49:44.796630
+ iteration: 600
+
+Error: Message: target frame detached
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: chrome=147.0.7727.56)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7adf30295+146d5]
+	chromedriver!GetHandleVerifier [0x7ff7adf30300+14740]
+	chromedriver!(No symbol) [0x7ff7adc9d5b6]
+	chromedriver!(No symbol) [0x7ff7adc89c20]
+	chromedriver!(No symbol) [0x7ff7adc88a56]
+	chromedriver!(No symbol) [0x7ff7adcaf0b1]
+	chromedriver!(No symbol) [0x7ff7adcae388]
+	chromedriver!(No symbol) [0x7ff7add44b92]
+	chromedriver!(No symbol) [0x7ff7adce9018]
+	chromedriver!(No symbol) [0x7ff7adce9f03]
+	chromedriver!GetHandleVerifier [0x7ff7ae245949+329d89]
+	chromedriver!GetHandleVerifier [0x7ff7ae23fe96+3242d6]
+	chromedriver!GetHandleVerifier [0x7ff7ae263102+347542]
+	chromedriver!GetHandleVerifier [0x7ff7adf4d425+31865]
+	chromedriver!GetHandleVerifier [0x7ff7adf5605c+3a49c]
+	chromedriver!GetHandleVerifier [0x7ff7adf39684+1dac4]
+	chromedriver!GetHandleVerifier [0x7ff7adf39836+1dc76]
+	chromedriver!GetHandleVerifier [0x7ff7adf1e347+2787]
+	KERNEL32!BaseThreadInitThunk [0x7ffc3ead7374+14]
+	ntdll!RtlUserThreadStart [0x7ffc3f65cc91+21]
+.
+ Occurred at 2026-04-12 19:51:34.700121
+ Link: https://docs.google.com/document/d/xVbFDwBSvzA-AYVbY1LCm1dhYZJNtdG-dZkryszNGsul
+ iteration: 10
+
+Driver restarted due to error at 2026-04-12 19:51:37.819417
+ iteration: 10
+
+Driver scheduled restart at 2026-04-12 19:52:23.602772
+ iteration: 300
+
+Driver scheduled restart at 2026-04-12 19:53:10.860933
+ iteration: 600
+
+Driver scheduled restart at 2026-04-12 19:56:33.029854
+ iteration: 1000
+
+Driver scheduled restart at 2026-04-12 19:59:08.243266
+ iteration: 2000
+
+Error: Message: timeout: Timed out receiving message from renderer: -0.008
+  (Session info: chrome=147.0.7727.56)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7adf30295+146d5]
+	chromedriver!GetHandleVerifier [0x7ff7adf30300+14740]
+	chromedriver!(No symbol) [0x7ff7adc9d7cd]
+	chromedriver!(No symbol) [0x7ff7adc89fa9]
+	chromedriver!(No symbol) [0x7ff7adc89c91]
+	chromedriver!(No symbol) [0x7ff7adc878c1]
+	chromedriver!(No symbol) [0x7ff7adc881ff]
+	chromedriver!(No symbol) [0x7ff7adc97b8a]
+	chromedriver!(No symbol) [0x7ff7adcaea97]
+	chromedriver!(No symbol) [0x7ff7adcb61da]
+	chromedriver!(No symbol) [0x7ff7adc889c1]
+	chromedriver!(No symbol) [0x7ff7adcae7c5]
+	chromedriver!(No symbol) [0x7ff7add446e0]
+	chromedriver!(No symbol) [0x7ff7adce9018]
+	chromedriver!(No symbol) [0x7ff7adce9f03]
+	chromedriver!GetHandleVerifier [0x7ff7ae245949+329d89]
+	chromedriver!GetHandleVerifier [0x7ff7ae23fe96+3242d6]
+	chromedriver!GetHandleVerifier [0x7ff7ae263102+347542]
+	chromedriver!GetHandleVerifier [0x7ff7adf4d425+31865]
+	chromedriver!GetHandleVerifier [0x7ff7adf5605c+3a49c]
+	chromedriver!GetHandleVerifier [0x7ff7adf39684+1dac4]
+	chromedriver!GetHandleVerifier [0x7ff7adf39836+1dc76]
+	chromedriver!GetHandleVerifier [0x7ff7adf1e347+2787]
+	KERNEL32!BaseThreadInitThunk [0x7ffc3ead7374+14]
+	ntdll!RtlUserThreadStart [0x7ffc3f65cc91+21]
+.
+ Occurred at 2026-04-12 19:59:58.797537
+ Link: https://docs.google.com/document/d/moEwnJmI7S5sTPWeHbEtNES5mGbsk_FqQYaLX9zYhC0Z
+ iteration: 2236
+
+Driver restarted due to error at 2026-04-12 20:00:01.999281
+ iteration: 2236
+
+Driver scheduled restart at 2026-04-12 20:01:54.739468
+ iteration: 3000
+
+Driver scheduled restart at 2026-04-12 20:04:35.645027
+ iteration: 4000
+
+Driver scheduled restart at 2026-04-12 20:07:09.862430
+ iteration: 5000
+
+Driver scheduled restart at 2026-04-12 20:09:43.828862
+ iteration: 6000
+
+Driver scheduled restart at 2026-04-12 20:12:16.117554
+ iteration: 7000
+
+Driver scheduled restart at 2026-04-12 20:14:51.890285
+ iteration: 8000
+
+Driver scheduled restart at 2026-04-12 20:17:25.921118
+ iteration: 9000
+
+Driver scheduled restart at 2026-04-12 20:20:10.514884
+ iteration: 10000
+
+Driver scheduled restart at 2026-04-12 20:22:48.085186
+ iteration: 11000
+
+Driver scheduled restart at 2026-04-12 20:25:22.127319
+ iteration: 12000
+
+Driver scheduled restart at 2026-04-12 20:27:49.827070
+ iteration: 13000
+
+Driver scheduled restart at 2026-04-12 20:30:28.249458
+ iteration: 14000
+
+Driver scheduled restart at 2026-04-12 20:33:05.074923
+ iteration: 15000
+
+Driver scheduled restart at 2026-04-12 20:35:35.822330
+ iteration: 16000
+
+Driver scheduled restart at 2026-04-12 20:38:10.163670
+ iteration: 17000
+
+Driver scheduled restart at 2026-04-12 20:40:40.645445
+ iteration: 18000
+
+Driver scheduled restart at 2026-04-12 20:43:07.474393
+ iteration: 19000
+
+Driver scheduled restart at 2026-04-12 20:45:35.631556
+ iteration: 20000
+
+Driver scheduled restart at 2026-04-12 20:48:10.353078
+ iteration: 21000
+
+Driver scheduled restart at 2026-04-12 20:50:46.199617
+ iteration: 22000
+
+Driver scheduled restart at 2026-04-12 20:53:16.486515
+ iteration: 23000
+
+Driver scheduled restart at 2026-04-12 20:55:44.830374
+ iteration: 24000
+
+Driver scheduled restart at 2026-04-12 20:58:14.978303
+ iteration: 25000
+
+Driver scheduled restart at 2026-04-12 21:00:52.392639
+ iteration: 26000
+
+Driver scheduled restart at 2026-04-12 21:03:22.781226
+ iteration: 27000
+
+Driver scheduled restart at 2026-04-12 21:05:53.560093
+ iteration: 28000
+
+Driver scheduled restart at 2026-04-12 21:08:27.701758
+ iteration: 29000
+
+Driver scheduled restart at 2026-04-12 21:10:58.673283
+ iteration: 30000
+
+Driver scheduled restart at 2026-04-12 21:13:39.711906
+ iteration: 31000
+
+Driver scheduled restart at 2026-04-12 21:16:20.822488
+ iteration: 32000
+
+Driver scheduled restart at 2026-04-12 21:18:43.458779
+ iteration: 33000
+
+Driver scheduled restart at 2026-04-12 21:21:19.061710
+ iteration: 34000
+
+Driver scheduled restart at 2026-04-12 21:23:53.016538
+ iteration: 35000
+
+Driver scheduled restart at 2026-04-12 21:26:29.342307
+ iteration: 36000
+
+Driver scheduled restart at 2026-04-12 21:29:04.227473
+ iteration: 37000
+
+Driver scheduled restart at 2026-04-12 21:31:40.051828
+ iteration: 38000
+
+Error: Message: timeout: Timed out receiving message from renderer: -0.007
+  (Session info: chrome=147.0.7727.56)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7adf30295+146d5]
+	chromedriver!GetHandleVerifier [0x7ff7adf30300+14740]
+	chromedriver!(No symbol) [0x7ff7adc9d7cd]
+	chromedriver!(No symbol) [0x7ff7adc89fa9]
+	chromedriver!(No symbol) [0x7ff7adc89c91]
+	chromedriver!(No symbol) [0x7ff7adc878c1]
+	chromedriver!(No symbol) [0x7ff7adc881ff]
+	chromedriver!(No symbol) [0x7ff7adc97b8a]
+	chromedriver!(No symbol) [0x7ff7adcaea97]
+	chromedriver!(No symbol) [0x7ff7adcb61da]
+	chromedriver!(No symbol) [0x7ff7adc889c1]
+	chromedriver!(No symbol) [0x7ff7adcae7c5]
+	chromedriver!(No symbol) [0x7ff7add446e0]
+	chromedriver!(No symbol) [0x7ff7adce9018]
+	chromedriver!(No symbol) [0x7ff7adce9f03]
+	chromedriver!GetHandleVerifier [0x7ff7ae245949+329d89]
+	chromedriver!GetHandleVerifier [0x7ff7ae23fe96+3242d6]
+	chromedriver!GetHandleVerifier [0x7ff7ae263102+347542]
+	chromedriver!GetHandleVerifier [0x7ff7adf4d425+31865]
+	chromedriver!GetHandleVerifier [0x7ff7adf5605c+3a49c]
+	chromedriver!GetHandleVerifier [0x7ff7adf39684+1dac4]
+	chromedriver!GetHandleVerifier [0x7ff7adf39836+1dc76]
+	chromedriver!GetHandleVerifier [0x7ff7adf1e347+2787]
+	KERNEL32!BaseThreadInitThunk [0x7ffc3ead7374+14]
+	ntdll!RtlUserThreadStart [0x7ffc3f65cc91+21]
+.
+ Occurred at 2026-04-12 21:34:59.647492
+ Link: https://docs.google.com/document/d/HSD9bxD6f1YkOVlcZAtZShT89AWEhlyTowH-tx4R3830
+ iteration: 38768
+
+Driver restarted due to error at 2026-04-12 21:35:02.651826
+ iteration: 38768
+
+Driver scheduled restart at 2026-04-12 21:35:38.126937
+ iteration: 39000
+
+Driver scheduled restart at 2026-04-12 21:38:10.880797
+ iteration: 40000
+
+Driver scheduled restart at 2026-04-12 21:40:44.186882
+ iteration: 41000
+
+Driver scheduled restart at 2026-04-12 21:43:19.249442
+ iteration: 42000
+
+Driver scheduled restart at 2026-04-12 21:45:51.499876
+ iteration: 43000
+
+Driver scheduled restart at 2026-04-12 21:48:32.194235
+ iteration: 44000
+
+Driver scheduled restart at 2026-04-12 21:51:05.365383
+ iteration: 45000
+
+Driver scheduled restart at 2026-04-12 21:53:40.082157
+ iteration: 46000
+
+Driver scheduled restart at 2026-04-12 21:56:14.045432
+ iteration: 47000
+
+Driver scheduled restart at 2026-04-12 21:58:44.252482
+ iteration: 48000
+
+Driver scheduled restart at 2026-04-12 22:01:16.019274
+ iteration: 49000
+
+Driver scheduled restart at 2026-04-12 22:03:50.709132
+ iteration: 50000
+
+Driver scheduled restart at 2026-04-12 22:06:31.677645
+ iteration: 51000
+
+Driver scheduled restart at 2026-04-12 22:09:05.760951
+ iteration: 52000
+
+Driver scheduled restart at 2026-04-12 22:11:34.017227
+ iteration: 53000
+
+Driver scheduled restart at 2026-04-12 22:14:04.127639
+ iteration: 54000
+
+Error: Message: timeout: Timed out receiving message from renderer: -0.006
+  (Session info: chrome=147.0.7727.56)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7adf30295+146d5]
+	chromedriver!GetHandleVerifier [0x7ff7adf30300+14740]
+	chromedriver!(No symbol) [0x7ff7adc9d7cd]
+	chromedriver!(No symbol) [0x7ff7adc89fa9]
+	chromedriver!(No symbol) [0x7ff7adc89c91]
+	chromedriver!(No symbol) [0x7ff7adc878c1]
+	chromedriver!(No symbol) [0x7ff7adc881ff]
+	chromedriver!(No symbol) [0x7ff7adc97b8a]
+	chromedriver!(No symbol) [0x7ff7adcaea97]
+	chromedriver!(No symbol) [0x7ff7adcb61da]
+	chromedriver!(No symbol) [0x7ff7adc889c1]
+	chromedriver!(No symbol) [0x7ff7adcae7c5]
+	chromedriver!(No symbol) [0x7ff7add446e0]
+	chromedriver!(No symbol) [0x7ff7adce9018]
+	chromedriver!(No symbol) [0x7ff7adce9f03]
+	chromedriver!GetHandleVerifier [0x7ff7ae245949+329d89]
+	chromedriver!GetHandleVerifier [0x7ff7ae23fe96+3242d6]
+	chromedriver!GetHandleVerifier [0x7ff7ae263102+347542]
+	chromedriver!GetHandleVerifier [0x7ff7adf4d425+31865]
+	chromedriver!GetHandleVerifier [0x7ff7adf5605c+3a49c]
+	chromedriver!GetHandleVerifier [0x7ff7adf39684+1dac4]
+	chromedriver!GetHandleVerifier [0x7ff7adf39836+1dc76]
+	chromedriver!GetHandleVerifier [0x7ff7adf1e347+2787]
+	KERNEL32!BaseThreadInitThunk [0x7ffc3ead7374+14]
+	ntdll!RtlUserThreadStart [0x7ffc3f65cc91+21]
+.
+ Occurred at 2026-04-12 22:16:52.783548
+ Link: https://docs.google.com/document/d/ASDvnMH-f5ZO_1015Z4BLKIFlZGI3ksVMPIeKG2RVaZZ
+ iteration: 54956
+
+Driver restarted due to error at 2026-04-12 22:16:56.036171
+ iteration: 54956
+
+Driver scheduled restart at 2026-04-12 22:17:03.388056
+ iteration: 55000
+
+Driver scheduled restart at 2026-04-12 22:19:38.778798
+ iteration: 56000
+
+Driver scheduled restart at 2026-04-12 22:22:13.365358
+ iteration: 57000
+
+Driver scheduled restart at 2026-04-12 22:24:43.981990
+ iteration: 58000
+
+Driver scheduled restart at 2026-04-12 22:27:16.879491
+ iteration: 59000
+
+Driver scheduled restart at 2026-04-12 22:29:57.160567
+ iteration: 60000
+
+Driver scheduled restart at 2026-04-12 22:32:43.197700
+ iteration: 61000
+
+Error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=147.0.7727.56)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7adf30295+146d5]
+	chromedriver!GetHandleVerifier [0x7ff7adf30300+14740]
+	chromedriver!(No symbol) [0x7ff7adc9d7cd]
+	chromedriver!(No symbol) [0x7ff7adc73e92]
+	chromedriver!(No symbol) [0x7ff7add26e56]
+	chromedriver!(No symbol) [0x7ff7add440e2]
+	chromedriver!(No symbol) [0x7ff7adce9018]
+	chromedriver!(No symbol) [0x7ff7adce9f03]
+	chromedriver!GetHandleVerifier [0x7ff7ae245949+329d89]
+	chromedriver!GetHandleVerifier [0x7ff7ae23fe96+3242d6]
+	chromedriver!GetHandleVerifier [0x7ff7ae263102+347542]
+	chromedriver!GetHandleVerifier [0x7ff7adf4d425+31865]
+	chromedriver!GetHandleVerifier [0x7ff7adf5605c+3a49c]
+	chromedriver!GetHandleVerifier [0x7ff7adf39684+1dac4]
+	chromedriver!GetHandleVerifier [0x7ff7adf39836+1dc76]
+	chromedriver!GetHandleVerifier [0x7ff7adf1e347+2787]
+	KERNEL32!BaseThreadInitThunk [0x7ffc3ead7374+14]
+	ntdll!RtlUserThreadStart [0x7ffc3f65cc91+21]
+.
+ Occurred at 2026-04-12 22:34:26.416728
+ Link: https://docs.google.com/document/d/0HzgyzY7YLbJZIXi7_LUIytnSDqH7KF1uBHTCJfu5HPP
+ iteration: 61613
+
+Driver restarted due to error at 2026-04-12 22:34:30.335913
+ iteration: 61613
+
+Driver scheduled restart at 2026-04-12 22:35:32.189266
+ iteration: 62000
+
+Error: Message: target frame detached
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: chrome=147.0.7727.56)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7adf30295+146d5]
+	chromedriver!GetHandleVerifier [0x7ff7adf30300+14740]
+	chromedriver!(No symbol) [0x7ff7adc9d5b6]
+	chromedriver!(No symbol) [0x7ff7adc89c20]
+	chromedriver!(No symbol) [0x7ff7adc88a56]
+	chromedriver!(No symbol) [0x7ff7adcaf0b1]
+	chromedriver!(No symbol) [0x7ff7adcae388]
+	chromedriver!(No symbol) [0x7ff7add44b92]
+	chromedriver!(No symbol) [0x7ff7adce9018]
+	chromedriver!(No symbol) [0x7ff7adce9f03]
+	chromedriver!GetHandleVerifier [0x7ff7ae245949+329d89]
+	chromedriver!GetHandleVerifier [0x7ff7ae23fe96+3242d6]
+	chromedriver!GetHandleVerifier [0x7ff7ae263102+347542]
+	chromedriver!GetHandleVerifier [0x7ff7adf4d425+31865]
+	chromedriver!GetHandleVerifier [0x7ff7adf5605c+3a49c]
+	chromedriver!GetHandleVerifier [0x7ff7adf39684+1dac4]
+	chromedriver!GetHandleVerifier [0x7ff7adf39836+1dc76]
+	chromedriver!GetHandleVerifier [0x7ff7adf1e347+2787]
+	KERNEL32!BaseThreadInitThunk [0x7ffc3ead7374+14]
+	ntdll!RtlUserThreadStart [0x7ffc3f65cc91+21]
+.
+ Occurred at 2026-04-12 22:35:38.488350
+ Link: https://docs.google.com/document/d/Hr38a0G59kGQjCwqgyg6tUoe3D0FmhC2CND7BQMdGLyg
+ iteration: 62019
+
+Driver restarted due to error at 2026-04-12 22:35:41.559261
+ iteration: 62019
+
+Error: Message: target frame detached
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: chrome=147.0.7727.56)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7adf30295+146d5]
+	chromedriver!GetHandleVerifier [0x7ff7adf30300+14740]
+	chromedriver!(No symbol) [0x7ff7adc9d5b6]
+	chromedriver!(No symbol) [0x7ff7adc89c20]
+	chromedriver!(No symbol) [0x7ff7adc88a56]
+	chromedriver!(No symbol) [0x7ff7adcaf0b1]
+	chromedriver!(No symbol) [0x7ff7adcae388]
+	chromedriver!(No symbol) [0x7ff7add44b92]
+	chromedriver!(No symbol) [0x7ff7adce9018]
+	chromedriver!(No symbol) [0x7ff7adce9f03]
+	chromedriver!GetHandleVerifier [0x7ff7ae245949+329d89]
+	chromedriver!GetHandleVerifier [0x7ff7ae23fe96+3242d6]
+	chromedriver!GetHandleVerifier [0x7ff7ae263102+347542]
+	chromedriver!GetHandleVerifier [0x7ff7adf4d425+31865]
+	chromedriver!GetHandleVerifier [0x7ff7adf5605c+3a49c]
+	chromedriver!GetHandleVerifier [0x7ff7adf39684+1dac4]
+	chromedriver!GetHandleVerifier [0x7ff7adf39836+1dc76]
+	chromedriver!GetHandleVerifier [0x7ff7adf1e347+2787]
+	KERNEL32!BaseThreadInitThunk [0x7ffc3ead7374+14]
+	ntdll!RtlUserThreadStart [0x7ffc3f65cc91+21]
+.
+ Occurred at 2026-04-12 22:35:42.365881
+ Link: https://docs.google.com/document/d/vx4PTqP2M7eauOoOYHPJCbZ_GFZvWom-aIgG8qcgvURx
+ iteration: 62023
+
+Driver restarted due to error at 2026-04-12 22:35:45.560254
+ iteration: 62023
+
+Error: Message: target frame detached
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: chrome=147.0.7727.56)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7adf30295+146d5]
+	chromedriver!GetHandleVerifier [0x7ff7adf30300+14740]
+	chromedriver!(No symbol) [0x7ff7adc9d5b6]
+	chromedriver!(No symbol) [0x7ff7adc89c20]
+	chromedriver!(No symbol) [0x7ff7adc88a56]
+	chromedriver!(No symbol) [0x7ff7adcaf0b1]
+	chromedriver!(No symbol) [0x7ff7adcae388]
+	chromedriver!(No symbol) [0x7ff7adcae4e1]
+	chromedriver!(No symbol) [0x7ff7add44b92]
+	chromedriver!(No symbol) [0x7ff7adce9018]
+	chromedriver!(No symbol) [0x7ff7adce9f03]
+	chromedriver!GetHandleVerifier [0x7ff7ae245949+329d89]
+	chromedriver!GetHandleVerifier [0x7ff7ae23fe96+3242d6]
+	chromedriver!GetHandleVerifier [0x7ff7ae263102+347542]
+	chromedriver!GetHandleVerifier [0x7ff7adf4d425+31865]
+	chromedriver!GetHandleVerifier [0x7ff7adf5605c+3a49c]
+	chromedriver!GetHandleVerifier [0x7ff7adf39684+1dac4]
+	chromedriver!GetHandleVerifier [0x7ff7adf39836+1dc76]
+	chromedriver!GetHandleVerifier [0x7ff7adf1e347+2787]
+	KERNEL32!BaseThreadInitThunk [0x7ffc3ead7374+14]
+	ntdll!RtlUserThreadStart [0x7ffc3f65cc91+21]
+.
+ Occurred at 2026-04-12 22:35:46.708529
+ Link: https://docs.google.com/document/d/1E02af5h23nKIHKCH4FRGCUdntm7XfCneJL0642vDg8p
+ iteration: 62030
+
+Driver restarted due to error at 2026-04-12 22:35:49.749415
+ iteration: 62030
+
+Driver scheduled restart at 2026-04-13 08:25:18.646373
+ iteration: 1000
+
+Driver scheduled restart at 2026-04-13 08:27:59.819742
+ iteration: 2000
+
+Driver scheduled restart at 2026-04-13 08:30:36.705814
+ iteration: 3000
+
+Driver scheduled restart at 2026-04-13 08:33:33.590371
+ iteration: 4000
+
+Driver scheduled restart at 2026-04-13 08:36:24.630529
+ iteration: 5000
+
+Driver scheduled restart at 2026-04-13 08:39:19.509425
+ iteration: 6000
+
+Driver scheduled restart at 2026-04-13 08:41:57.661759
+ iteration: 7000
+
+Driver scheduled restart at 2026-04-13 08:44:41.374493
+ iteration: 8000
+
+Driver scheduled restart at 2026-04-13 08:47:30.823733
+ iteration: 9000
+
+Driver scheduled restart at 2026-04-13 08:50:10.494788
+ iteration: 10000
+
+Driver scheduled restart at 2026-04-13 08:53:05.983712
+ iteration: 11000
+
+Driver scheduled restart at 2026-04-13 08:57:52.959387
+ iteration: 12000
+
+Driver scheduled restart at 2026-04-13 09:00:29.812868
+ iteration: 13000
+
+Driver scheduled restart at 2026-04-13 09:03:26.164174
+ iteration: 14000
+
+Driver scheduled restart at 2026-04-13 09:06:14.827342
+ iteration: 15000
+
+Driver scheduled restart at 2026-04-13 09:09:00.619607
+ iteration: 16000
+
+Driver scheduled restart at 2026-04-13 09:11:50.626358
+ iteration: 17000
+
+Driver scheduled restart at 2026-04-13 09:15:10.626441
+ iteration: 18000
+
+Driver scheduled restart at 2026-04-13 09:18:35.905609
+ iteration: 19000
+
+Driver scheduled restart at 2026-04-13 09:21:42.808169
+ iteration: 20000
+
+Driver scheduled restart at 2026-04-13 09:24:51.583125
+ iteration: 21000
+
+Driver scheduled restart at 2026-04-13 09:27:44.523715
+ iteration: 22000
+
+Driver scheduled restart at 2026-04-13 09:30:34.264135
+ iteration: 23000
+
+Driver scheduled restart at 2026-04-13 09:33:33.952292
+ iteration: 24000
+
+Error: Message: timeout: Timed out receiving message from renderer: -0.008
+  (Session info: chrome=147.0.7727.56)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6fa120295+146d5]
+	chromedriver!GetHandleVerifier [0x7ff6fa120300+14740]
+	chromedriver!(No symbol) [0x7ff6f9e8d7cd]
+	chromedriver!(No symbol) [0x7ff6f9e79fa9]
+	chromedriver!(No symbol) [0x7ff6f9e79c91]
+	chromedriver!(No symbol) [0x7ff6f9e778c1]
+	chromedriver!(No symbol) [0x7ff6f9e781ff]
+	chromedriver!(No symbol) [0x7ff6f9e87b8a]
+	chromedriver!(No symbol) [0x7ff6f9e9ea97]
+	chromedriver!(No symbol) [0x7ff6f9ea61da]
+	chromedriver!(No symbol) [0x7ff6f9e789c1]
+	chromedriver!(No symbol) [0x7ff6f9e9e7c5]
+	chromedriver!(No symbol) [0x7ff6f9f346e0]
+	chromedriver!(No symbol) [0x7ff6f9ed9018]
+	chromedriver!(No symbol) [0x7ff6f9ed9f03]
+	chromedriver!GetHandleVerifier [0x7ff6fa435949+329d89]
+	chromedriver!GetHandleVerifier [0x7ff6fa42fe96+3242d6]
+	chromedriver!GetHandleVerifier [0x7ff6fa453102+347542]
+	chromedriver!GetHandleVerifier [0x7ff6fa13d425+31865]
+	chromedriver!GetHandleVerifier [0x7ff6fa14605c+3a49c]
+	chromedriver!GetHandleVerifier [0x7ff6fa129684+1dac4]
+	chromedriver!GetHandleVerifier [0x7ff6fa129836+1dc76]
+	chromedriver!GetHandleVerifier [0x7ff6fa10e347+2787]
+	KERNEL32!BaseThreadInitThunk [0x7ffc3ead7374+14]
+	ntdll!RtlUserThreadStart [0x7ffc3f65cc91+21]
+.
+ Occurred at 2026-04-13 09:34:28.996644
+ Link: https://docs.google.com/document/d/86fltYWCw2lzyv5Kzzg7CedIPh9kvluPH36Sk_74I2AR
+ iteration: 24251
+
+Driver restarted due to error at 2026-04-13 09:34:31.987870
+ iteration: 24251
+
+Driver scheduled restart at 2026-04-13 09:36:35.030528
+ iteration: 25000
+
+Driver scheduled restart at 2026-04-13 09:39:34.872681
+ iteration: 26000
+
+Error: Message: timeout: Timed out receiving message from renderer: -0.011
+  (Session info: chrome=147.0.7727.56)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6fa120295+146d5]
+	chromedriver!GetHandleVerifier [0x7ff6fa120300+14740]
+	chromedriver!(No symbol) [0x7ff6f9e8d7cd]
+	chromedriver!(No symbol) [0x7ff6f9e79fa9]
+	chromedriver!(No symbol) [0x7ff6f9e79c91]
+	chromedriver!(No symbol) [0x7ff6f9e778c1]
+	chromedriver!(No symbol) [0x7ff6f9e781ff]
+	chromedriver!(No symbol) [0x7ff6f9e87b8a]
+	chromedriver!(No symbol) [0x7ff6f9e9ea97]
+	chromedriver!(No symbol) [0x7ff6f9ea61da]
+	chromedriver!(No symbol) [0x7ff6f9e789c1]
+	chromedriver!(No symbol) [0x7ff6f9e9e7c5]
+	chromedriver!(No symbol) [0x7ff6f9f346e0]
+	chromedriver!(No symbol) [0x7ff6f9ed9018]
+	chromedriver!(No symbol) [0x7ff6f9ed9f03]
+	chromedriver!GetHandleVerifier [0x7ff6fa435949+329d89]
+	chromedriver!GetHandleVerifier [0x7ff6fa42fe96+3242d6]
+	chromedriver!GetHandleVerifier [0x7ff6fa453102+347542]
+	chromedriver!GetHandleVerifier [0x7ff6fa13d425+31865]
+	chromedriver!GetHandleVerifier [0x7ff6fa14605c+3a49c]
+	chromedriver!GetHandleVerifier [0x7ff6fa129684+1dac4]
+	chromedriver!GetHandleVerifier [0x7ff6fa129836+1dc76]
+	chromedriver!GetHandleVerifier [0x7ff6fa10e347+2787]
+	KERNEL32!BaseThreadInitThunk [0x7ffc3ead7374+14]
+	ntdll!RtlUserThreadStart [0x7ffc3f65cc91+21]
+.
+ Occurred at 2026-04-13 09:40:31.510141
+ Link: https://docs.google.com/document/d/b-MKpa70P5LL78q0xPHd-OM7W3Y1w_CZdMRYxOepcPAI
+ iteration: 26205
+
+Driver restarted due to error at 2026-04-13 09:40:34.556719
+ iteration: 26205
+
+Driver scheduled restart at 2026-04-13 09:42:53.332473
+ iteration: 27000
+
+Driver scheduled restart at 2026-04-13 09:45:46.957546
+ iteration: 28000
+
+Driver scheduled restart at 2026-04-13 09:48:44.062371
+ iteration: 29000
+
+Driver scheduled restart at 2026-04-13 09:51:41.912484
+ iteration: 30000
+
+Driver scheduled restart at 2026-04-13 09:54:27.539322
+ iteration: 31000
+
+Driver scheduled restart at 2026-04-13 09:57:23.358973
+ iteration: 32000
+
+Driver scheduled restart at 2026-04-13 10:00:06.540795
+ iteration: 33000
+
+Driver scheduled restart at 2026-04-13 10:03:10.806554
+ iteration: 34000
+
+Driver scheduled restart at 2026-04-13 10:06:08.739270
+ iteration: 35000
+
+Driver scheduled restart at 2026-04-13 10:09:06.681334
+ iteration: 36000
+
+Driver scheduled restart at 2026-04-13 10:12:16.851988
+ iteration: 37000
+
+Driver scheduled restart at 2026-04-13 10:15:20.303326
+ iteration: 38000
+
+Error: Message: timeout: Timed out receiving message from renderer: -0.007
+  (Session info: chrome=147.0.7727.56)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6fa120295+146d5]
+	chromedriver!GetHandleVerifier [0x7ff6fa120300+14740]
+	chromedriver!(No symbol) [0x7ff6f9e8d7cd]
+	chromedriver!(No symbol) [0x7ff6f9e79fa9]
+	chromedriver!(No symbol) [0x7ff6f9e79c91]
+	chromedriver!(No symbol) [0x7ff6f9e778c1]
+	chromedriver!(No symbol) [0x7ff6f9e781ff]
+	chromedriver!(No symbol) [0x7ff6f9e87b8a]
+	chromedriver!(No symbol) [0x7ff6f9e9ea97]
+	chromedriver!(No symbol) [0x7ff6f9ea61da]
+	chromedriver!(No symbol) [0x7ff6f9e789c1]
+	chromedriver!(No symbol) [0x7ff6f9e9e7c5]
+	chromedriver!(No symbol) [0x7ff6f9f346e0]
+	chromedriver!(No symbol) [0x7ff6f9ed9018]
+	chromedriver!(No symbol) [0x7ff6f9ed9f03]
+	chromedriver!GetHandleVerifier [0x7ff6fa435949+329d89]
+	chromedriver!GetHandleVerifier [0x7ff6fa42fe96+3242d6]
+	chromedriver!GetHandleVerifier [0x7ff6fa453102+347542]
+	chromedriver!GetHandleVerifier [0x7ff6fa13d425+31865]
+	chromedriver!GetHandleVerifier [0x7ff6fa14605c+3a49c]
+	chromedriver!GetHandleVerifier [0x7ff6fa129684+1dac4]
+	chromedriver!GetHandleVerifier [0x7ff6fa129836+1dc76]
+	chromedriver!GetHandleVerifier [0x7ff6fa10e347+2787]
+	KERNEL32!BaseThreadInitThunk [0x7ffc3ead7374+14]
+	ntdll!RtlUserThreadStart [0x7ffc3f65cc91+21]
+.
+ Occurred at 2026-04-13 10:18:03.421347
+ Link: https://docs.google.com/document/d/AHynvIVvTBvmbCdsOUBHHLYSMSbiHMOUk7p52KPHXW5_
+ iteration: 38789
+
+Driver restarted due to error at 2026-04-13 10:18:06.594558
+ iteration: 38789
+
+Driver scheduled restart at 2026-04-13 10:18:41.452325
+ iteration: 39000
+
+Driver scheduled restart at 2026-04-13 10:21:46.609588
+ iteration: 40000
+
+Driver scheduled restart at 2026-04-13 10:24:46.118362
+ iteration: 41000
+
+Driver scheduled restart at 2026-04-13 10:27:29.086910
+ iteration: 42000
+
+Driver scheduled restart at 2026-04-13 10:30:49.171922
+ iteration: 43000
+
+Error: Message: timeout: Timed out receiving message from renderer: -0.012
+  (Session info: chrome=147.0.7727.56)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6fa120295+146d5]
+	chromedriver!GetHandleVerifier [0x7ff6fa120300+14740]
+	chromedriver!(No symbol) [0x7ff6f9e8d7cd]
+	chromedriver!(No symbol) [0x7ff6f9e79fa9]
+	chromedriver!(No symbol) [0x7ff6f9e79c91]
+	chromedriver!(No symbol) [0x7ff6f9e778c1]
+	chromedriver!(No symbol) [0x7ff6f9e781ff]
+	chromedriver!(No symbol) [0x7ff6f9e87b8a]
+	chromedriver!(No symbol) [0x7ff6f9e9ea97]
+	chromedriver!(No symbol) [0x7ff6f9ea61da]
+	chromedriver!(No symbol) [0x7ff6f9e789c1]
+	chromedriver!(No symbol) [0x7ff6f9e9e7c5]
+	chromedriver!(No symbol) [0x7ff6f9f346e0]
+	chromedriver!(No symbol) [0x7ff6f9ed9018]
+	chromedriver!(No symbol) [0x7ff6f9ed9f03]
+	chromedriver!GetHandleVerifier [0x7ff6fa435949+329d89]
+	chromedriver!GetHandleVerifier [0x7ff6fa42fe96+3242d6]
+	chromedriver!GetHandleVerifier [0x7ff6fa453102+347542]
+	chromedriver!GetHandleVerifier [0x7ff6fa13d425+31865]
+	chromedriver!GetHandleVerifier [0x7ff6fa14605c+3a49c]
+	chromedriver!GetHandleVerifier [0x7ff6fa129684+1dac4]
+	chromedriver!GetHandleVerifier [0x7ff6fa129836+1dc76]
+	chromedriver!GetHandleVerifier [0x7ff6fa10e347+2787]
+	KERNEL32!BaseThreadInitThunk [0x7ffc3ead7374+14]
+	ntdll!RtlUserThreadStart [0x7ffc3f65cc91+21]
+.
+ Occurred at 2026-04-13 10:33:30.596375
+ Link: https://docs.google.com/document/d/4KclRXLJOOU4eNfcrKjNmhEnyhczCh6rGBLXffOIVUp4
+ iteration: 43606
+
+Driver restarted due to error at 2026-04-13 10:33:33.602042
+ iteration: 43606
+
+Driver scheduled restart at 2026-04-13 10:34:40.984309
+ iteration: 44000
+
+Driver scheduled restart at 2026-04-13 10:37:32.948414
+ iteration: 45000
+
+Driver scheduled restart at 2026-04-13 10:40:39.302479
+ iteration: 46000
+
+Driver scheduled restart at 2026-04-13 10:43:41.647096
+ iteration: 47000
+
+Error: Message: timeout: Timed out receiving message from renderer: -0.008
+  (Session info: chrome=147.0.7727.56)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6fa120295+146d5]
+	chromedriver!GetHandleVerifier [0x7ff6fa120300+14740]
+	chromedriver!(No symbol) [0x7ff6f9e8d7cd]
+	chromedriver!(No symbol) [0x7ff6f9e79fa9]
+	chromedriver!(No symbol) [0x7ff6f9e79c91]
+	chromedriver!(No symbol) [0x7ff6f9e778c1]
+	chromedriver!(No symbol) [0x7ff6f9e781ff]
+	chromedriver!(No symbol) [0x7ff6f9e87b8a]
+	chromedriver!(No symbol) [0x7ff6f9e9ea97]
+	chromedriver!(No symbol) [0x7ff6f9ea61da]
+	chromedriver!(No symbol) [0x7ff6f9e789c1]
+	chromedriver!(No symbol) [0x7ff6f9e9e7c5]
+	chromedriver!(No symbol) [0x7ff6f9f346e0]
+	chromedriver!(No symbol) [0x7ff6f9ed9018]
+	chromedriver!(No symbol) [0x7ff6f9ed9f03]
+	chromedriver!GetHandleVerifier [0x7ff6fa435949+329d89]
+	chromedriver!GetHandleVerifier [0x7ff6fa42fe96+3242d6]
+	chromedriver!GetHandleVerifier [0x7ff6fa453102+347542]
+	chromedriver!GetHandleVerifier [0x7ff6fa13d425+31865]
+	chromedriver!GetHandleVerifier [0x7ff6fa14605c+3a49c]
+	chromedriver!GetHandleVerifier [0x7ff6fa129684+1dac4]
+	chromedriver!GetHandleVerifier [0x7ff6fa129836+1dc76]
+	chromedriver!GetHandleVerifier [0x7ff6fa10e347+2787]
+	KERNEL32!BaseThreadInitThunk [0x7ffc3ead7374+14]
+	ntdll!RtlUserThreadStart [0x7ffc3f65cc91+21]
+.
+ Occurred at 2026-04-13 10:45:54.916397
+ Link: https://docs.google.com/document/d/MmlnovQgyeiAtKNYJ7OnB894DPsHjZMflqdpRT_7FOfJ
+ iteration: 47607
+
+Driver restarted due to error at 2026-04-13 10:45:58.096550
+ iteration: 47607
+
+Driver scheduled restart at 2026-04-13 10:47:03.940852
+ iteration: 48000
+
+Driver scheduled restart at 2026-04-13 10:51:04.597995
+ iteration: 49000
+
+Error: Message: timeout: Timed out receiving message from renderer: -0.032
+  (Session info: chrome=147.0.7727.56)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6fa120295+146d5]
+	chromedriver!GetHandleVerifier [0x7ff6fa120300+14740]
+	chromedriver!(No symbol) [0x7ff6f9e8d7cd]
+	chromedriver!(No symbol) [0x7ff6f9e79fa9]
+	chromedriver!(No symbol) [0x7ff6f9e79c91]
+	chromedriver!(No symbol) [0x7ff6f9e778c1]
+	chromedriver!(No symbol) [0x7ff6f9e781ff]
+	chromedriver!(No symbol) [0x7ff6f9e87b8a]
+	chromedriver!(No symbol) [0x7ff6f9e9ea97]
+	chromedriver!(No symbol) [0x7ff6f9ea61da]
+	chromedriver!(No symbol) [0x7ff6f9e789c1]
+	chromedriver!(No symbol) [0x7ff6f9e9e7c5]
+	chromedriver!(No symbol) [0x7ff6f9f346e0]
+	chromedriver!(No symbol) [0x7ff6f9ed9018]
+	chromedriver!(No symbol) [0x7ff6f9ed9f03]
+	chromedriver!GetHandleVerifier [0x7ff6fa435949+329d89]
+	chromedriver!GetHandleVerifier [0x7ff6fa42fe96+3242d6]
+	chromedriver!GetHandleVerifier [0x7ff6fa453102+347542]
+	chromedriver!GetHandleVerifier [0x7ff6fa13d425+31865]
+	chromedriver!GetHandleVerifier [0x7ff6fa14605c+3a49c]
+	chromedriver!GetHandleVerifier [0x7ff6fa129684+1dac4]
+	chromedriver!GetHandleVerifier [0x7ff6fa129836+1dc76]
+	chromedriver!GetHandleVerifier [0x7ff6fa10e347+2787]
+	KERNEL32!BaseThreadInitThunk [0x7ffc3ead7374+14]
+	ntdll!RtlUserThreadStart [0x7ffc3f65cc91+21]
+.
+ Occurred at 2026-04-13 10:52:17.372152
+ Link: https://docs.google.com/document/d/cDxJMdiaY8eRgLvGJ5qwUqP02q97M6W993qAA0BWUMUG
+ iteration: 49345
+
+Driver restarted due to error at 2026-04-13 10:52:21.026324
+ iteration: 49345
+
+Driver scheduled restart at 2026-04-13 10:54:29.092384
+ iteration: 50000
+
+Error: Message: timeout: Timed out receiving message from renderer: -0.054
+  (Session info: chrome=147.0.7727.56)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6fa120295+146d5]
+	chromedriver!GetHandleVerifier [0x7ff6fa120300+14740]
+	chromedriver!(No symbol) [0x7ff6f9e8d7cd]
+	chromedriver!(No symbol) [0x7ff6f9e79fa9]
+	chromedriver!(No symbol) [0x7ff6f9e79c91]
+	chromedriver!(No symbol) [0x7ff6f9e778c1]
+	chromedriver!(No symbol) [0x7ff6f9e781ff]
+	chromedriver!(No symbol) [0x7ff6f9e87b8a]
+	chromedriver!(No symbol) [0x7ff6f9e9ea97]
+	chromedriver!(No symbol) [0x7ff6f9ea61da]
+	chromedriver!(No symbol) [0x7ff6f9e789c1]
+	chromedriver!(No symbol) [0x7ff6f9e9e7c5]
+	chromedriver!(No symbol) [0x7ff6f9f346e0]
+	chromedriver!(No symbol) [0x7ff6f9ed9018]
+	chromedriver!(No symbol) [0x7ff6f9ed9f03]
+	chromedriver!GetHandleVerifier [0x7ff6fa435949+329d89]
+	chromedriver!GetHandleVerifier [0x7ff6fa42fe96+3242d6]
+	chromedriver!GetHandleVerifier [0x7ff6fa453102+347542]
+	chromedriver!GetHandleVerifier [0x7ff6fa13d425+31865]
+	chromedriver!GetHandleVerifier [0x7ff6fa14605c+3a49c]
+	chromedriver!GetHandleVerifier [0x7ff6fa129684+1dac4]
+	chromedriver!GetHandleVerifier [0x7ff6fa129836+1dc76]
+	chromedriver!GetHandleVerifier [0x7ff6fa10e347+2787]
+	KERNEL32!BaseThreadInitThunk [0x7ffc3ead7374+14]
+	ntdll!RtlUserThreadStart [0x7ffc3f65cc91+21]
+.
+ Occurred at 2026-04-13 10:55:06.718870
+ Link: https://docs.google.com/document/d/uGlqgZ5mbXArH-dRyJikhcgmL0oK0PIGryKnLbFitw38
+ iteration: 50111
+
+Driver restarted due to error at 2026-04-13 10:55:10.116891
+ iteration: 50111
+
+Driver scheduled restart at 2026-04-13 10:57:58.388665
+ iteration: 51000
+
+Driver scheduled restart at 2026-04-13 11:00:33.179204
+ iteration: 52000
+
+Driver scheduled restart at 2026-04-13 11:03:51.849250
+ iteration: 53000
+
+Driver scheduled restart at 2026-04-13 11:06:37.102421
+ iteration: 54000
+
+Driver scheduled restart at 2026-04-13 11:09:15.314056
+ iteration: 55000
+
+Driver scheduled restart at 2026-04-13 11:12:21.942066
+ iteration: 56000
+
+Driver scheduled restart at 2026-04-13 11:15:22.519273
+ iteration: 57000
+
+Driver scheduled restart at 2026-04-13 11:18:22.981046
+ iteration: 58000
+
+Driver scheduled restart at 2026-04-13 11:21:33.058148
+ iteration: 59000
+
+Driver scheduled restart at 2026-04-13 11:24:04.858877
+ iteration: 60000
+
+Driver scheduled restart at 2026-04-13 11:26:55.635361
+ iteration: 61000
+
+Driver scheduled restart at 2026-04-13 11:29:49.996897
+ iteration: 62000
+
+Driver scheduled restart at 2026-04-13 11:32:27.051144
+ iteration: 63000
+
+Driver scheduled restart at 2026-04-13 11:35:26.468914
+ iteration: 64000
+
+Driver scheduled restart at 2026-04-13 11:38:19.681062
+ iteration: 65000
+
+Driver scheduled restart at 2026-04-13 11:41:20.485801
+ iteration: 66000
+
+Driver scheduled restart at 2026-04-13 11:44:09.643109
+ iteration: 67000
+
+Driver scheduled restart at 2026-04-13 11:47:07.732809
+ iteration: 68000
+
+Driver scheduled restart at 2026-04-13 11:50:04.692747
+ iteration: 69000
+
+Driver scheduled restart at 2026-04-13 11:52:58.123514
+ iteration: 70000
+
+Driver scheduled restart at 2026-04-13 11:55:54.137983
+ iteration: 71000
+
+Error: Message: timeout: Timed out receiving message from renderer: -0.008
+  (Session info: chrome=147.0.7727.56)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6fa120295+146d5]
+	chromedriver!GetHandleVerifier [0x7ff6fa120300+14740]
+	chromedriver!(No symbol) [0x7ff6f9e8d7cd]
+	chromedriver!(No symbol) [0x7ff6f9e79fa9]
+	chromedriver!(No symbol) [0x7ff6f9e79c91]
+	chromedriver!(No symbol) [0x7ff6f9e778c1]
+	chromedriver!(No symbol) [0x7ff6f9e781ff]
+	chromedriver!(No symbol) [0x7ff6f9e87b8a]
+	chromedriver!(No symbol) [0x7ff6f9e9ea97]
+	chromedriver!(No symbol) [0x7ff6f9ea61da]
+	chromedriver!(No symbol) [0x7ff6f9e789c1]
+	chromedriver!(No symbol) [0x7ff6f9e9e7c5]
+	chromedriver!(No symbol) [0x7ff6f9f346e0]
+	chromedriver!(No symbol) [0x7ff6f9ed9018]
+	chromedriver!(No symbol) [0x7ff6f9ed9f03]
+	chromedriver!GetHandleVerifier [0x7ff6fa435949+329d89]
+	chromedriver!GetHandleVerifier [0x7ff6fa42fe96+3242d6]
+	chromedriver!GetHandleVerifier [0x7ff6fa453102+347542]
+	chromedriver!GetHandleVerifier [0x7ff6fa13d425+31865]
+	chromedriver!GetHandleVerifier [0x7ff6fa14605c+3a49c]
+	chromedriver!GetHandleVerifier [0x7ff6fa129684+1dac4]
+	chromedriver!GetHandleVerifier [0x7ff6fa129836+1dc76]
+	chromedriver!GetHandleVerifier [0x7ff6fa10e347+2787]
+	KERNEL32!BaseThreadInitThunk [0x7ffc3ead7374+14]
+	ntdll!RtlUserThreadStart [0x7ffc3f65cc91+21]
+.
+ Occurred at 2026-04-13 11:58:30.199567
+ Link: https://docs.google.com/document/d/nGAANtgtwMnIdQSUSvaAH_aZWOTbnDgKz_5UYm5Qqhci
+ iteration: 71837
+
+Driver restarted due to error at 2026-04-13 11:58:34.146388
+ iteration: 71837
+
+Driver scheduled restart at 2026-04-13 11:59:01.787347
+ iteration: 72000
+
+Driver scheduled restart at 2026-04-13 12:01:56.085161
+ iteration: 73000
+
+Driver scheduled restart at 2026-04-13 12:04:34.035838
+ iteration: 74000
+
+Driver scheduled restart at 2026-04-13 12:07:16.958926
+ iteration: 75000
+
+Driver scheduled restart at 2026-04-13 12:10:13.393811
+ iteration: 76000
+
+Driver scheduled restart at 2026-04-13 12:13:08.577485
+ iteration: 77000
+
+Driver scheduled restart at 2026-04-13 12:15:54.360593
+ iteration: 78000
+
+Driver scheduled restart at 2026-04-13 12:18:51.881807
+ iteration: 79000
+
+Driver scheduled restart at 2026-04-13 12:21:55.592413
+ iteration: 80000
+
+Driver scheduled restart at 2026-04-13 12:24:59.259404
+ iteration: 81000
+
+Driver scheduled restart at 2026-04-13 12:28:00.912093
+ iteration: 82000
+
+Driver scheduled restart at 2026-04-13 12:31:07.406862
+ iteration: 83000
+
+Driver scheduled restart at 2026-04-13 12:33:42.025895
+ iteration: 84000
+
+Driver scheduled restart at 2026-04-13 12:36:26.455205
+ iteration: 85000
+
+Driver scheduled restart at 2026-04-13 12:39:07.843825
+ iteration: 86000
+
+Driver scheduled restart at 2026-04-13 12:42:18.496932
+ iteration: 87000
+
+Driver scheduled restart at 2026-04-13 12:45:31.663493
+ iteration: 88000
+
+Driver scheduled restart at 2026-04-13 12:48:38.648619
+ iteration: 89000
+
+Driver scheduled restart at 2026-04-13 12:51:28.644154
+ iteration: 90000
+
+Driver scheduled restart at 2026-04-13 12:54:36.011038
+ iteration: 91000
+
+Driver scheduled restart at 2026-04-13 12:57:19.189553
+ iteration: 92000
+
+Driver scheduled restart at 2026-04-13 13:00:02.773097
+ iteration: 93000
+
+Driver scheduled restart at 2026-04-13 13:03:16.143131
+ iteration: 94000
+
+Driver scheduled restart at 2026-04-13 13:06:01.451548
+ iteration: 95000
+
+Driver scheduled restart at 2026-04-13 13:09:21.741014
+ iteration: 96000
+
+Driver scheduled restart at 2026-04-13 13:12:33.397090
+ iteration: 97000
+
+Driver scheduled restart at 2026-04-13 13:15:34.553389
+ iteration: 98000
+
+Driver scheduled restart at 2026-04-13 13:18:23.698761
+ iteration: 99000
+
+Driver scheduled restart at 2026-04-13 13:21:29.617996
+ iteration: 100000
+
+Driver scheduled restart at 2026-04-13 13:24:48.332900
+ iteration: 101000
+
+Driver scheduled restart at 2026-04-13 13:27:51.907426
+ iteration: 102000
+
+Driver scheduled restart at 2026-04-13 13:31:00.663602
+ iteration: 103000
+
+Driver scheduled restart at 2026-04-13 13:33:58.232696
+ iteration: 104000
+
+Driver scheduled restart at 2026-04-13 13:37:13.172115
+ iteration: 105000
+
+Driver scheduled restart at 2026-04-13 13:40:09.105973
+ iteration: 106000
+
+Driver scheduled restart at 2026-04-13 13:43:11.648809
+ iteration: 107000
+
+Driver scheduled restart at 2026-04-13 13:46:04.832914
+ iteration: 108000
+
+Driver scheduled restart at 2026-04-13 13:49:05.505014
+ iteration: 109000
+
+Driver scheduled restart at 2026-04-13 13:52:07.677449
+ iteration: 110000
+
+Driver scheduled restart at 2026-04-13 13:55:04.927629
+ iteration: 111000
+
+Driver scheduled restart at 2026-04-13 13:57:59.774911
+ iteration: 112000
+
+Driver scheduled restart at 2026-04-13 14:01:00.081833
+ iteration: 113000
+
+Driver scheduled restart at 2026-04-13 14:03:54.253578
+ iteration: 114000
+
+Driver scheduled restart at 2026-04-13 14:06:53.110337
+ iteration: 115000
+
+Error: Message: timeout: Timed out receiving message from renderer: -0.006
+  (Session info: chrome=147.0.7727.56)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6fa120295+146d5]
+	chromedriver!GetHandleVerifier [0x7ff6fa120300+14740]
+	chromedriver!(No symbol) [0x7ff6f9e8d7cd]
+	chromedriver!(No symbol) [0x7ff6f9e79fa9]
+	chromedriver!(No symbol) [0x7ff6f9e79c91]
+	chromedriver!(No symbol) [0x7ff6f9e778c1]
+	chromedriver!(No symbol) [0x7ff6f9e781ff]
+	chromedriver!(No symbol) [0x7ff6f9e87b8a]
+	chromedriver!(No symbol) [0x7ff6f9e9ea97]
+	chromedriver!(No symbol) [0x7ff6f9ea61da]
+	chromedriver!(No symbol) [0x7ff6f9e789c1]
+	chromedriver!(No symbol) [0x7ff6f9e9e7c5]
+	chromedriver!(No symbol) [0x7ff6f9f346e0]
+	chromedriver!(No symbol) [0x7ff6f9ed9018]
+	chromedriver!(No symbol) [0x7ff6f9ed9f03]
+	chromedriver!GetHandleVerifier [0x7ff6fa435949+329d89]
+	chromedriver!GetHandleVerifier [0x7ff6fa42fe96+3242d6]
+	chromedriver!GetHandleVerifier [0x7ff6fa453102+347542]
+	chromedriver!GetHandleVerifier [0x7ff6fa13d425+31865]
+	chromedriver!GetHandleVerifier [0x7ff6fa14605c+3a49c]
+	chromedriver!GetHandleVerifier [0x7ff6fa129684+1dac4]
+	chromedriver!GetHandleVerifier [0x7ff6fa129836+1dc76]
+	chromedriver!GetHandleVerifier [0x7ff6fa10e347+2787]
+	KERNEL32!BaseThreadInitThunk [0x7ffc3ead7374+14]
+	ntdll!RtlUserThreadStart [0x7ffc3f65cc91+21]
+.
+ Occurred at 2026-04-13 14:09:41.462038
+ Link: https://docs.google.com/document/d/Trkh68xBFMeDm6xpyVvQb2avBFFpkcDiSTPab1E5gmcE
+ iteration: 115823
+
+Driver restarted due to error at 2026-04-13 14:09:44.432302
+ iteration: 115823
+
+Driver scheduled restart at 2026-04-13 14:10:19.198348
+ iteration: 116000
+
+Driver scheduled restart at 2026-04-13 14:13:14.015515
+ iteration: 117000
+
+Driver scheduled restart at 2026-04-13 14:16:23.131600
+ iteration: 118000
+
+Driver scheduled restart at 2026-04-13 14:19:21.658451
+ iteration: 119000
+
+Driver scheduled restart at 2026-04-13 14:22:10.328195
+ iteration: 120000
+
+Driver scheduled restart at 2026-04-13 14:25:11.909325
+ iteration: 121000
+
+Driver scheduled restart at 2026-04-13 14:28:03.890275
+ iteration: 122000
+
+Driver scheduled restart at 2026-04-13 14:31:05.451436
+ iteration: 123000
+
+Driver scheduled restart at 2026-04-13 14:33:51.192747
+ iteration: 124000
+
+Driver scheduled restart at 2026-04-13 14:36:57.262155
+ iteration: 125000
+
+Driver scheduled restart at 2026-04-13 14:39:59.603507
+ iteration: 126000
+
+Driver scheduled restart at 2026-04-13 14:42:57.271231
+ iteration: 127000
+
+Driver scheduled restart at 2026-04-13 14:45:56.894850
+ iteration: 128000
+
+Driver scheduled restart at 2026-04-13 14:48:55.006771
+ iteration: 129000
+
+Driver scheduled restart at 2026-04-13 14:51:46.058952
+ iteration: 130000
+
+Driver scheduled restart at 2026-04-13 14:54:38.360451
+ iteration: 131000
+
+Driver scheduled restart at 2026-04-13 14:57:33.914619
+ iteration: 132000
+
+Driver scheduled restart at 2026-04-13 15:00:27.277019
+ iteration: 133000
+
+Driver scheduled restart at 2026-04-13 15:03:22.765057
+ iteration: 134000
+
+Driver scheduled restart at 2026-04-13 15:06:24.050223
+ iteration: 135000
+
+Driver scheduled restart at 2026-04-13 15:09:01.323887
+ iteration: 136000
+
+Driver scheduled restart at 2026-04-13 15:11:43.592107
+ iteration: 137000
+
+Driver scheduled restart at 2026-04-13 15:14:31.564773
+ iteration: 138000
+
+Driver scheduled restart at 2026-04-13 15:17:25.459501
+ iteration: 139000
+
+Driver scheduled restart at 2026-04-13 15:20:15.903157
+ iteration: 140000
+
+Error: Message: timeout: Timed out receiving message from renderer: -0.007
+  (Session info: chrome=147.0.7727.56)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6fa120295+146d5]
+	chromedriver!GetHandleVerifier [0x7ff6fa120300+14740]
+	chromedriver!(No symbol) [0x7ff6f9e8d7cd]
+	chromedriver!(No symbol) [0x7ff6f9e79fa9]
+	chromedriver!(No symbol) [0x7ff6f9e79c91]
+	chromedriver!(No symbol) [0x7ff6f9e778c1]
+	chromedriver!(No symbol) [0x7ff6f9e781ff]
+	chromedriver!(No symbol) [0x7ff6f9e87b8a]
+	chromedriver!(No symbol) [0x7ff6f9e9ea97]
+	chromedriver!(No symbol) [0x7ff6f9ea61da]
+	chromedriver!(No symbol) [0x7ff6f9e789c1]
+	chromedriver!(No symbol) [0x7ff6f9e9e7c5]
+	chromedriver!(No symbol) [0x7ff6f9f346e0]
+	chromedriver!(No symbol) [0x7ff6f9ed9018]
+	chromedriver!(No symbol) [0x7ff6f9ed9f03]
+	chromedriver!GetHandleVerifier [0x7ff6fa435949+329d89]
+	chromedriver!GetHandleVerifier [0x7ff6fa42fe96+3242d6]
+	chromedriver!GetHandleVerifier [0x7ff6fa453102+347542]
+	chromedriver!GetHandleVerifier [0x7ff6fa13d425+31865]
+	chromedriver!GetHandleVerifier [0x7ff6fa14605c+3a49c]
+	chromedriver!GetHandleVerifier [0x7ff6fa129684+1dac4]
+	chromedriver!GetHandleVerifier [0x7ff6fa129836+1dc76]
+	chromedriver!GetHandleVerifier [0x7ff6fa10e347+2787]
+	KERNEL32!BaseThreadInitThunk [0x7ffc3ead7374+14]
+	ntdll!RtlUserThreadStart [0x7ffc3f65cc91+21]
+.
+ Occurred at 2026-04-13 15:22:31.250553
+ Link: https://docs.google.com/document/d/fJ20dgL2lHsbzR-OdjzmU8ujYRZ2-pf-b0C4WVOYY5Cy
+ iteration: 140677
+
+Driver restarted due to error at 2026-04-13 15:22:34.363821
+ iteration: 140677
+
+Error: Message: timeout: Timed out receiving message from renderer: -0.007
+  (Session info: chrome=147.0.7727.56)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6fa120295+146d5]
+	chromedriver!GetHandleVerifier [0x7ff6fa120300+14740]
+	chromedriver!(No symbol) [0x7ff6f9e8d7cd]
+	chromedriver!(No symbol) [0x7ff6f9e79fa9]
+	chromedriver!(No symbol) [0x7ff6f9e79c91]
+	chromedriver!(No symbol) [0x7ff6f9e778c1]
+	chromedriver!(No symbol) [0x7ff6f9e781ff]
+	chromedriver!(No symbol) [0x7ff6f9e87b8a]
+	chromedriver!(No symbol) [0x7ff6f9e9ea97]
+	chromedriver!(No symbol) [0x7ff6f9ea61da]
+	chromedriver!(No symbol) [0x7ff6f9e789c1]
+	chromedriver!(No symbol) [0x7ff6f9e9e7c5]
+	chromedriver!(No symbol) [0x7ff6f9f346e0]
+	chromedriver!(No symbol) [0x7ff6f9ed9018]
+	chromedriver!(No symbol) [0x7ff6f9ed9f03]
+	chromedriver!GetHandleVerifier [0x7ff6fa435949+329d89]
+	chromedriver!GetHandleVerifier [0x7ff6fa42fe96+3242d6]
+	chromedriver!GetHandleVerifier [0x7ff6fa453102+347542]
+	chromedriver!GetHandleVerifier [0x7ff6fa13d425+31865]
+	chromedriver!GetHandleVerifier [0x7ff6fa14605c+3a49c]
+	chromedriver!GetHandleVerifier [0x7ff6fa129684+1dac4]
+	chromedriver!GetHandleVerifier [0x7ff6fa129836+1dc76]
+	chromedriver!GetHandleVerifier [0x7ff6fa10e347+2787]
+	KERNEL32!BaseThreadInitThunk [0x7ffc3ead7374+14]
+	ntdll!RtlUserThreadStart [0x7ffc3f65cc91+21]
+.
+ Occurred at 2026-04-13 15:23:30.973040
+ Link: https://docs.google.com/document/d/BgH-I-xHiKJV0s0m1Sub2-TYGwGPv17SYIXYA1T2VI_w
+ iteration: 140947
+
+Driver restarted due to error at 2026-04-13 15:23:34.549290
+ iteration: 140947
+
+Driver scheduled restart at 2026-04-13 15:23:43.668787
+ iteration: 141000
+
+Driver scheduled restart at 2026-04-13 15:26:48.537704
+ iteration: 142000
+
+Driver scheduled restart at 2026-04-13 15:29:53.474344
+ iteration: 143000
+
+Driver scheduled restart at 2026-04-13 15:32:58.386259
+ iteration: 144000
+
+Driver scheduled restart at 2026-04-13 15:36:03.525263
+ iteration: 145000
+
+Error: Message: timeout: Timed out receiving message from renderer: -0.014
+  (Session info: chrome=147.0.7727.56)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6fa120295+146d5]
+	chromedriver!GetHandleVerifier [0x7ff6fa120300+14740]
+	chromedriver!(No symbol) [0x7ff6f9e8d7cd]
+	chromedriver!(No symbol) [0x7ff6f9e79fa9]
+	chromedriver!(No symbol) [0x7ff6f9e79c91]
+	chromedriver!(No symbol) [0x7ff6f9e778c1]
+	chromedriver!(No symbol) [0x7ff6f9e781ff]
+	chromedriver!(No symbol) [0x7ff6f9e87b8a]
+	chromedriver!(No symbol) [0x7ff6f9e9ea97]
+	chromedriver!(No symbol) [0x7ff6f9ea61da]
+	chromedriver!(No symbol) [0x7ff6f9e789c1]
+	chromedriver!(No symbol) [0x7ff6f9e9e7c5]
+	chromedriver!(No symbol) [0x7ff6f9f346e0]
+	chromedriver!(No symbol) [0x7ff6f9ed9018]
+	chromedriver!(No symbol) [0x7ff6f9ed9f03]
+	chromedriver!GetHandleVerifier [0x7ff6fa435949+329d89]
+	chromedriver!GetHandleVerifier [0x7ff6fa42fe96+3242d6]
+	chromedriver!GetHandleVerifier [0x7ff6fa453102+347542]
+	chromedriver!GetHandleVerifier [0x7ff6fa13d425+31865]
+	chromedriver!GetHandleVerifier [0x7ff6fa14605c+3a49c]
+	chromedriver!GetHandleVerifier [0x7ff6fa129684+1dac4]
+	chromedriver!GetHandleVerifier [0x7ff6fa129836+1dc76]
+	chromedriver!GetHandleVerifier [0x7ff6fa10e347+2787]
+	KERNEL32!BaseThreadInitThunk [0x7ffc3ead7374+14]
+	ntdll!RtlUserThreadStart [0x7ffc3f65cc91+21]
+.
+ Occurred at 2026-04-13 15:38:56.544520
+ Link: https://docs.google.com/document/d/iYYXs-q4lTjQ_PUAKlWmYpaqQKBhwxo5iHJEuDQrEWA5
+ iteration: 145859
+
+Driver restarted due to error at 2026-04-13 15:38:59.755487
+ iteration: 145859
+
+Driver scheduled restart at 2026-04-13 15:39:24.758859
+ iteration: 146000
+
+Driver scheduled restart at 2026-04-13 15:42:22.195591
+ iteration: 147000
+
+Driver scheduled restart at 2026-04-13 15:45:25.844115
+ iteration: 148000
+
+Driver scheduled restart at 2026-04-13 15:48:10.442431
+ iteration: 149000
+
+Driver scheduled restart at 2026-04-13 15:51:11.442598
+ iteration: 150000
+
+Driver scheduled restart at 2026-04-13 15:54:10.652674
+ iteration: 151000
+
+Driver scheduled restart at 2026-04-13 15:57:11.282572
+ iteration: 152000
+
+Error: Message: timeout: Timed out receiving message from renderer: -0.004
+  (Session info: chrome=147.0.7727.56)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6fa120295+146d5]
+	chromedriver!GetHandleVerifier [0x7ff6fa120300+14740]
+	chromedriver!(No symbol) [0x7ff6f9e8d7cd]
+	chromedriver!(No symbol) [0x7ff6f9e79fa9]
+	chromedriver!(No symbol) [0x7ff6f9e79c91]
+	chromedriver!(No symbol) [0x7ff6f9e778c1]
+	chromedriver!(No symbol) [0x7ff6f9e781ff]
+	chromedriver!(No symbol) [0x7ff6f9e87b8a]
+	chromedriver!(No symbol) [0x7ff6f9e9ea97]
+	chromedriver!(No symbol) [0x7ff6f9ea61da]
+	chromedriver!(No symbol) [0x7ff6f9e789c1]
+	chromedriver!(No symbol) [0x7ff6f9e9e7c5]
+	chromedriver!(No symbol) [0x7ff6f9f346e0]
+	chromedriver!(No symbol) [0x7ff6f9ed9018]
+	chromedriver!(No symbol) [0x7ff6f9ed9f03]
+	chromedriver!GetHandleVerifier [0x7ff6fa435949+329d89]
+	chromedriver!GetHandleVerifier [0x7ff6fa42fe96+3242d6]
+	chromedriver!GetHandleVerifier [0x7ff6fa453102+347542]
+	chromedriver!GetHandleVerifier [0x7ff6fa13d425+31865]
+	chromedriver!GetHandleVerifier [0x7ff6fa14605c+3a49c]
+	chromedriver!GetHandleVerifier [0x7ff6fa129684+1dac4]
+	chromedriver!GetHandleVerifier [0x7ff6fa129836+1dc76]
+	chromedriver!GetHandleVerifier [0x7ff6fa10e347+2787]
+	KERNEL32!BaseThreadInitThunk [0x7ffc3ead7374+14]
+	ntdll!RtlUserThreadStart [0x7ffc3f65cc91+21]
+.
+ Occurred at 2026-04-13 15:58:03.286569
+ Link: https://docs.google.com/document/d/B0g9IVbyGngqea4DdMZXJ44e8mUoOThioymYEil8_gEn
+ iteration: 152192
+
+Driver restarted due to error at 2026-04-13 15:58:06.376823
+ iteration: 152192
+
+Driver scheduled restart at 2026-04-13 16:00:19.759040
+ iteration: 153000
+
+Driver scheduled restart at 2026-04-13 16:03:33.304414
+ iteration: 154000
+
+Driver scheduled restart at 2026-04-13 16:06:33.472667
+ iteration: 155000
+
+Error: Message: timeout: Timed out receiving message from renderer: -0.015
+  (Session info: chrome=147.0.7727.56)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6fa120295+146d5]
+	chromedriver!GetHandleVerifier [0x7ff6fa120300+14740]
+	chromedriver!(No symbol) [0x7ff6f9e8d7cd]
+	chromedriver!(No symbol) [0x7ff6f9e79fa9]
+	chromedriver!(No symbol) [0x7ff6f9e79c91]
+	chromedriver!(No symbol) [0x7ff6f9e778c1]
+	chromedriver!(No symbol) [0x7ff6f9e781ff]
+	chromedriver!(No symbol) [0x7ff6f9e87b8a]
+	chromedriver!(No symbol) [0x7ff6f9e9ea97]
+	chromedriver!(No symbol) [0x7ff6f9ea61da]
+	chromedriver!(No symbol) [0x7ff6f9e789c1]
+	chromedriver!(No symbol) [0x7ff6f9e9e7c5]
+	chromedriver!(No symbol) [0x7ff6f9f346e0]
+	chromedriver!(No symbol) [0x7ff6f9ed9018]
+	chromedriver!(No symbol) [0x7ff6f9ed9f03]
+	chromedriver!GetHandleVerifier [0x7ff6fa435949+329d89]
+	chromedriver!GetHandleVerifier [0x7ff6fa42fe96+3242d6]
+	chromedriver!GetHandleVerifier [0x7ff6fa453102+347542]
+	chromedriver!GetHandleVerifier [0x7ff6fa13d425+31865]
+	chromedriver!GetHandleVerifier [0x7ff6fa14605c+3a49c]
+	chromedriver!GetHandleVerifier [0x7ff6fa129684+1dac4]
+	chromedriver!GetHandleVerifier [0x7ff6fa129836+1dc76]
+	chromedriver!GetHandleVerifier [0x7ff6fa10e347+2787]
+	KERNEL32!BaseThreadInitThunk [0x7ffc3ead7374+14]
+	ntdll!RtlUserThreadStart [0x7ffc3f65cc91+21]
+.
+ Occurred at 2026-04-13 16:08:05.316974
+ Link: https://docs.google.com/document/d/mxF35FK00pG2ThS1xyRWQeQJiETY1jgnn-AHd4XXLU4F
+ iteration: 155461
+
+Driver restarted due to error at 2026-04-13 16:08:08.543843
+ iteration: 155461
+
+Driver scheduled restart at 2026-04-13 16:09:38.543075
+ iteration: 156000
+
+Driver scheduled restart at 2026-04-13 16:12:48.269581
+ iteration: 157000
+
+Driver scheduled restart at 2026-04-13 16:15:33.193808
+ iteration: 158000
+
+Driver scheduled restart at 2026-04-13 16:18:36.688155
+ iteration: 159000
+
+Driver scheduled restart at 2026-04-13 16:21:43.752845
+ iteration: 160000
+
+Driver scheduled restart at 2026-04-13 16:24:38.530406
+ iteration: 161000
+
+Error: Message: timeout: Timed out receiving message from renderer: -0.009
+  (Session info: chrome=147.0.7727.56)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6fa120295+146d5]
+	chromedriver!GetHandleVerifier [0x7ff6fa120300+14740]
+	chromedriver!(No symbol) [0x7ff6f9e8d7cd]
+	chromedriver!(No symbol) [0x7ff6f9e79fa9]
+	chromedriver!(No symbol) [0x7ff6f9e79c91]
+	chromedriver!(No symbol) [0x7ff6f9e778c1]
+	chromedriver!(No symbol) [0x7ff6f9e781ff]
+	chromedriver!(No symbol) [0x7ff6f9e87b8a]
+	chromedriver!(No symbol) [0x7ff6f9e9ea97]
+	chromedriver!(No symbol) [0x7ff6f9ea61da]
+	chromedriver!(No symbol) [0x7ff6f9e789c1]
+	chromedriver!(No symbol) [0x7ff6f9e9e7c5]
+	chromedriver!(No symbol) [0x7ff6f9f346e0]
+	chromedriver!(No symbol) [0x7ff6f9ed9018]
+	chromedriver!(No symbol) [0x7ff6f9ed9f03]
+	chromedriver!GetHandleVerifier [0x7ff6fa435949+329d89]
+	chromedriver!GetHandleVerifier [0x7ff6fa42fe96+3242d6]
+	chromedriver!GetHandleVerifier [0x7ff6fa453102+347542]
+	chromedriver!GetHandleVerifier [0x7ff6fa13d425+31865]
+	chromedriver!GetHandleVerifier [0x7ff6fa14605c+3a49c]
+	chromedriver!GetHandleVerifier [0x7ff6fa129684+1dac4]
+	chromedriver!GetHandleVerifier [0x7ff6fa129836+1dc76]
+	chromedriver!GetHandleVerifier [0x7ff6fa10e347+2787]
+	KERNEL32!BaseThreadInitThunk [0x7ffc3ead7374+14]
+	ntdll!RtlUserThreadStart [0x7ffc3f65cc91+21]
+.
+ Occurred at 2026-04-13 16:25:51.873797
+ Link: https://docs.google.com/document/d/iNJlcuE-xW7MjkJpuJMLrVozA6CwieW5Y_qYlIsAeQFR
+ iteration: 161319
+
+Driver restarted due to error at 2026-04-13 16:25:55.365673
+ iteration: 161319
+
+Driver scheduled restart at 2026-04-13 16:27:49.833753
+ iteration: 162000
+
+Driver scheduled restart at 2026-04-13 16:31:14.837123
+ iteration: 163000
+
+Driver scheduled restart at 2026-04-13 16:34:09.204644
+ iteration: 164000
+
+Driver scheduled restart at 2026-04-13 16:37:21.332041
+ iteration: 165000
+
+Driver scheduled restart at 2026-04-13 16:40:04.891160
+ iteration: 166000
+
+Driver scheduled restart at 2026-04-13 16:43:09.534470
+ iteration: 167000
+
+Error: Message: timeout: Timed out receiving message from renderer: -0.003
+  (Session info: chrome=147.0.7727.56)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6fa120295+146d5]
+	chromedriver!GetHandleVerifier [0x7ff6fa120300+14740]
+	chromedriver!(No symbol) [0x7ff6f9e8d7cd]
+	chromedriver!(No symbol) [0x7ff6f9e79fa9]
+	chromedriver!(No symbol) [0x7ff6f9e79c91]
+	chromedriver!(No symbol) [0x7ff6f9e778c1]
+	chromedriver!(No symbol) [0x7ff6f9e781ff]
+	chromedriver!(No symbol) [0x7ff6f9e87b8a]
+	chromedriver!(No symbol) [0x7ff6f9e9ea97]
+	chromedriver!(No symbol) [0x7ff6f9ea61da]
+	chromedriver!(No symbol) [0x7ff6f9e789c1]
+	chromedriver!(No symbol) [0x7ff6f9e9e7c5]
+	chromedriver!(No symbol) [0x7ff6f9f346e0]
+	chromedriver!(No symbol) [0x7ff6f9ed9018]
+	chromedriver!(No symbol) [0x7ff6f9ed9f03]
+	chromedriver!GetHandleVerifier [0x7ff6fa435949+329d89]
+	chromedriver!GetHandleVerifier [0x7ff6fa42fe96+3242d6]
+	chromedriver!GetHandleVerifier [0x7ff6fa453102+347542]
+	chromedriver!GetHandleVerifier [0x7ff6fa13d425+31865]
+	chromedriver!GetHandleVerifier [0x7ff6fa14605c+3a49c]
+	chromedriver!GetHandleVerifier [0x7ff6fa129684+1dac4]
+	chromedriver!GetHandleVerifier [0x7ff6fa129836+1dc76]
+	chromedriver!GetHandleVerifier [0x7ff6fa10e347+2787]
+	KERNEL32!BaseThreadInitThunk [0x7ffc3ead7374+14]
+	ntdll!RtlUserThreadStart [0x7ffc3f65cc91+21]
+.
+ Occurred at 2026-04-13 16:45:11.697789
+ Link: https://docs.google.com/document/d/R6Z0jh70AZSW-64VTVqlnwAA0pxjQqJVow6zDRrxBsSa
+ iteration: 167698
+
+Driver restarted due to error at 2026-04-13 16:45:14.784405
+ iteration: 167698
+
+Driver scheduled restart at 2026-04-13 16:46:09.822618
+ iteration: 168000
+
+Driver scheduled restart at 2026-04-13 16:49:12.624681
+ iteration: 169000
